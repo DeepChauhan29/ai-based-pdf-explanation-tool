@@ -38,7 +38,7 @@ from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize
 
 # Your Hugging Face API key
-API_KEY = "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"  # Replace with your actual API key
+API_KEY = "Replace with your actual API key"  # Replace with your actual API key
 
 class TimeoutException(Exception): pass
 
